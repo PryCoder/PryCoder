@@ -34,7 +34,7 @@
 
 ## 🚀 **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,next,firebase,appwrite,react,nodejs,express,mongodb,mysql,python,java,git,github,docker,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,next,mern,firebase,appwrite,react,nodejs,express,mongodb,mysql,python,java,git,github,docker,bootstrap,tailwind" />
 </p>
 
 ---
