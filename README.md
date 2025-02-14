@@ -25,7 +25,7 @@
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshugupta"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Gupta-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-gupta-664b30321"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Gupta-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/PriyanshuG34"><img src="https://img.shields.io/badge/Twitter-Priyanshu%20Gupta-blue?style=for-the-badge&logo=twitter" /></a>
   <a href="https://instagram.com/priyanshu05134"><img src="https://img.shields.io/badge/Instagram-Priyanshu05134-pink?style=for-the-badge&logo=instagram" /></a>
 </p>
