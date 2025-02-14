@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prycoder&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-  <a href="https://twitter.com/priyanshugupta">
+  <a href="(https://twitter.com/PriyanshuG34)">
     <img src="https://img.shields.io/twitter/follow/priyanshugupta?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
   </a>
 </p>
