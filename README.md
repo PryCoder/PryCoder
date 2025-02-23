@@ -17,7 +17,7 @@
 
 ## 👨‍💻 **About Me**:
 - 🔥 Full-Stack Developer with a passion for building **scalable web applications**  
-- 🌱 **Currently Learning**: Java, React Native  
+- 🌱 **Currently Learning**: Java, Flutter, Tensorflow   
 - 💬 **Ask Me About**: MERN Stack, APIs, Cloud Deployment  
 - 📫 **Reach Me At**: `priyanshugupta007007@gmail.com`  
 
